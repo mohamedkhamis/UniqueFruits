@@ -30,8 +30,6 @@
                 counter++;
                 if (counter > 1) break;
             }
-
-
             return counter > 1;
         }
     }
