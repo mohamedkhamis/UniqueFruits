@@ -6,4 +6,6 @@
 
 
 var uniqueFruits = new UniqueFruits.UniqueFruits();
-uniqueFruits.UniqueFruitsLogic();
+uniqueFruits.UniqueFruitsLogicOne();
+Console.WriteLine("-----------------------");
+uniqueFruits.UniqueFruitsLogicTwo();
